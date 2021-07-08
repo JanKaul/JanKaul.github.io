@@ -1,0 +1,2 @@
+(self.webpackChunkweblab=self.webpackChunkweblab||[]).push([[883],{59616:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return l}});var u=t(67294);function l(){return u.createElement("div",null,"Hello Gatsby!")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-e93270d946aa620346ff.js.map
